@@ -9,9 +9,6 @@
     - Briefly highlight 2-3 essential features you implemented (e.g., product search, shopping cart, checkout, user management).
     - If applicable, mention specific optimizations or challenges you addressed, showcasing your problem-solving skills.
 
-**3. Measurable impact and achievements (optional):**
-    - Quantify the impact of your project if possible (e.g., increased user engagement, improved conversion rates, reduced development time).
-    - Share positive feedback or awards received, demonstrating the project's success.
 
 **Example:**
 
